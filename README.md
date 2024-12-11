@@ -6,7 +6,7 @@ This Example uses O365 library for authorization and Email retrieval. Beautifuls
 Add Copado Robotic Testing secret variables on Test Job level for the ones defined in graph.resource file.
 Example usage can be located in test.robot file.
 
-# https://pypi.org/project/O365/
+Library https://pypi.org/project/O365/
 Add App registration into your Azure AD to obtain OAuth2 credentials.
 - Add permissions scope (Mail.Read)
 - Save client credentials
