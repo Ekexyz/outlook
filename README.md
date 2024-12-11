@@ -11,4 +11,5 @@ Library https://pypi.org/project/O365/
 Add App registration into your Azure AD to obtain OAuth2 credentials.
 - Add permissions scope (Mail.Read)
 - Save client credentials
+  
 Doesn't work with personal account, needs to be a corporate.
