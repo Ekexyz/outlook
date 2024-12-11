@@ -1,4 +1,4 @@
-# outlook
+# Copado Robotic Testing, Outlook example
 
 This Example will connected to a Outlook Mailbox and return a Dictionary of Email Body and Links.
 This Example uses O365 library for authorization and Email retrieval. Beautifulsoup4 is used to parse links from the Email body.
